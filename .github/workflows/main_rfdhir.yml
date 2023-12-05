@@ -50,4 +50,4 @@ jobs:
           app-name: 'rfdhir'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90A4F5CEABF24A86960DC2130C4589AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B31C53BF26CC40F6AC00CA1760BF1093 }}
